@@ -1,4 +1,4 @@
-# suono-documentation
+# suono-Library
 play sound in java swing
 
 # recommended:
